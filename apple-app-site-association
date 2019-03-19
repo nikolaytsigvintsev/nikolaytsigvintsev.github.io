@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "xxxxx.manifold.media",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
