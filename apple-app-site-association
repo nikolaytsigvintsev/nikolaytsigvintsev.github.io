@@ -1,13 +1,14 @@
-{
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "7KT49PG496.media.manifold.MPI-Field-Notes",
-        "paths": [
-          "*"
-        ]
-      }
-    ]
-  }
+{ 
+"activitycontinuation": {
+  "apps": [
+    "7KT49PG496.media.manifold.MPI-Field-Notes"
+  ]
+},
+"applinks": {
+  "apps": [],
+  "details": [{
+      "appID": "7KT49PG496.media.manifold.MPI-Field-Notes",
+      "paths": [ "*" ]
+  }]
+ }
 }
